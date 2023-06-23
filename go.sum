@@ -1,0 +1,7 @@
+github.com/openengineer/go-repl v0.2.2 h1:UYg58f0VRNU4zWe1HPIyKab8WMNqyEado5+BhWQnp60=
+github.com/openengineer/go-repl v0.2.2/go.mod h1:qoz8yrBNC2Uj9vuscwFKdyKoklAsmDuVwHAxYvanwek=
+github.com/openengineer/go-terminal v0.0.0-20220304032943-93486212aca4/go.mod h1:Dx5mNI0A2naWQySM7zXOl/NT5QWs2sfvcQxq1tCbQVY=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 h1:SrN+KX8Art/Sf4HNj6Zcz06G7VEz+7w9tdXTPOZ7+l4=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 h1:JGgROgKl9N8DuW20oFS5gxc+lE67/N3FcwmBPMe7ArY=
+golang.org/x/term v0.0.0-20210927222741-03fcf44c2211/go.mod h1:jbD1KX2456YbFQfuXm/mYQcufACuNUgVhRMnK/tPxf8=
